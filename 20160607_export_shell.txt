@@ -1,0 +1,32 @@
+Grammar	Response	Command	Profile
+open windows explorer	opening windows explorer	explorer	main
+open windows directory	here you go	explorer "%windir%"	main
+open control panel	sure; here you go	RunDll32.exe shell32.dll,Control_RunDLL	main
+check current weather using vb script	Retrieving weather	Weather Cur	main
+show windows sound playback devices	Opening sound options	Control mmsys.cpl,,0	main
+show open windows sound recording devices	Opening sound options	Control mmsys.cpl,,1	main
+open add or remove programs	Opening add, remove programs	Control appwiz.cpl	main
+set date and time	Opening date and time settings	Control timedate.cpl,,0	main
+open screen saver settings	Opening screen saver settings	Control desk.cpl,,1	main
+open desktop icon settings	Opening desktop icon settings	Control desk.cpl,,0	main
+open windows themes settings	Opening themes settings	Control desk.cpl,,2	main
+open screen resolution settings	Opening screen resolution settings	Control desk.cpl	main
+open advance system properties	Opening advance system properties	control sysdm.cpl,,2	main
+open system properties	Opening system properties	Control sysdm.cpl	main
+open c drive	here you go;opening c drive	C:\	main
+open e drive	here you go;opening e drive	E:\	main
+open document	opening document	E:\Paper IV.docx	main
+Restart	restatring	shutdown.exe -r -t 0	main
+Shutdown	shuting down	shutdown.exe -s -t 0	main
+Open Excel	Opening Excel	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Excel 2016.lnk	main
+open Word	Opening Word	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Word 2016.lnk	main
+open PowerPoint	Opening PowerPoint	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\powerpoint2016.lnk	main
+Open search	Done	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Search.lnk	main
+i want to search	Ok	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Search.lnk	main
+Open Outlook	ok swapnil	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\OneNote 2016.lnk	main
+Open OneNote	Opening OneNote	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\OneNote 2016.lnk	main
+open downloads	Opening Sir	C:\Users\swapnil\Downloads	main
+open PPT	Opening PowerPoint	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\powerpoint2016.lnk	main
+open camera	opening camera	%SystemRoot%\Camera\Camera.exe	main
+open PC Settings	opening PC settings	%windir%\System32\Control.exe	main
+open store	opening store	%windir%\WinStore\WinStore.htm	main

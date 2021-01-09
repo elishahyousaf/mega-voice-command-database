@@ -1,0 +1,19 @@
+Grammar	Response	Command	Profile
+open google	opening google;sure, here you go	http://www.google.com	main
+open bing	opening bing;here you go	http://www.bing.com	main
+show more shell commands	you can use these commands in shell tab	http://www.thewindowsclub.com/rundll32-shortcut-commands-windows	main
+show more control commands		http://www.techspot.com/community/topics/control-panel-applets-windows-shortcuts.115199/	main
+show weather from plugin	[LINKS.LWeather.LoadWeather(12765522,F)]Temprature in [LINKS.LWeather.get_Town] is [LINKS.LWeather.get_Temperature] degrees [LINKS.LWeather.get_TemperatureUnit]		main
+open dailymotion	opening dailymotion;sure, here you go	http://www.dailymotion.com	main
+open dailymotion Upload	opening dailymotion upload;sure, here you go	http://www.dailymotion.com/upload	main
+open youtube	opening  youtube;sure, here you go	http://www.youtube.com	main
+open tseries	opening  youtube tseries;sure, here you go	http://www.youtube.com/tseries	main
+open youtube Upload	opening  youtube upload;sure, here you go	http://www.youtube.com/upload	main
+open paytm	opening paytm	http://www.paytm.com	main
+open wix.com	opening wix	http://www.wix.com	main
+Open Facebook	opening Facebook	http://www.facebook.com	main
+open blogger	opening blogger	http://blogger.com	main
+open adsense	opening adsense	http://adsense.com	main
+open admob	opening Admob	http://admob.com	main
+open Fb	Opening Facebook	http://www.facebook.com	main
+yes open Flipkart	opening Flipkart	http://www.flipkart.com	main
